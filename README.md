@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm Md. Ishtiyaque Ansari 👋</h1>
+<h1 align="center">Hi, I'm Md. Ishtiyaque Ansari 👋</h1>
 
 <h3 align="center">Senior Angular Developer & Frontend Team Lead</h3>
 
