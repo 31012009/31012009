@@ -127,7 +127,6 @@ I'm a **Senior Angular Developer** and **Frontend Team Lead** with **9+ years** 
 
 ## 🏆 Key Achievements
 
-```
 ✅  Led Micro Frontend architecture (Module Federation) across enterprise PropTech suite
 ✅  Managed & mentored a 5+ person frontend team
 ✅  Built geospatial map platforms used across core products
